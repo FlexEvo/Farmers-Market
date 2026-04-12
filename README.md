@@ -74,7 +74,7 @@ The system allows users to register either as a **farmer** or a **buyer**, and p
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/farmconnect.git
+git clone https://github.com/FlexEvo/Farmers-Market
 ```
 
 2. Open in Visual Studio
