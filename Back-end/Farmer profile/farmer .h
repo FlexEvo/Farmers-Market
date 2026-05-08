@@ -15,6 +15,7 @@ private:
 	String^ farmAddy;
 	double prices;
 	List<List<String^>^>^ produce = gcnew List<List<String^>^>();	//This stores the produce and each produce's quantity.
+	//List<List<String^>^>^ is basically a 2-D array but for list.
 
 public:
 	Farmer();
